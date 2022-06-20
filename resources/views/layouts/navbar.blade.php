@@ -1,6 +1,6 @@
 <div class="bg-blue-700 px-4 sm:px-6 py-3 flex items-center justify-between shadow h-16 fixed top-0 left-0 right-0 z-50">
     <div class="flex items-center text-white">
-        <a href="home"><img src="images/navbar/logo.png" width="135" height="24" alt="NU-Time Logo"></a>
+        <a href="home"><img src="images/navbar/logo.png" width="135" height="24" alt="Logo"></a>
     </div>
     <div class="relative">
         @auth
